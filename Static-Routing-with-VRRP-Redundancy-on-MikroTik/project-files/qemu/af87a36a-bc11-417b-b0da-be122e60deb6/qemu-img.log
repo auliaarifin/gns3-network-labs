@@ -1,0 +1,1 @@
+Formatting '/home/dauntless42/GNS3/projects/Static-Routing-with-VRRP-Redundancy-on-MikroTik/project-files/qemu/af87a36a-bc11-417b-b0da-be122e60deb6/hda_disk.qcow2', fmt=qcow2 cluster_size=65536 extended_l2=off compression_type=zlib size=134217728 backing_file=/home/dauntless42/GNS3/images/QEMU/chr-7.16.img backing_fmt=raw lazy_refcounts=off refcount_bits=16
